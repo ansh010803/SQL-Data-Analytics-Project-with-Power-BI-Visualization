@@ -158,7 +158,7 @@ JOIN OrderStatus o ON s.[Status] = o.[Name];
 
 Relational database design (Using [QuickDBD](https://drive.google.com/file/d/1wjLgOz9iEe_BVWpq5lqhIm1jljzeJA8o/view?usp=drive_link)): 
 <p align="center">
-  <kbd><img src="image/relational.png"> </kbd> <br>
+  <kbd><img src="image/relationaldatabase.png"> </kbd> <br>
   Relational Database Design
 </p>
 
