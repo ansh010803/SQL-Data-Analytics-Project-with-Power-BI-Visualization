@@ -234,12 +234,12 @@ ORDER BY Total DESC;
 PayPal is the most used payment method (60 orders), followed by credit card (54) and debit card (53). Gift card (42) and Amazon Pay (41) trail behind, showing customers prefer traditional digital payments over alternative options.
 <p align="center">
 SQL Output: Orders by Payment Method<br>
-  <kbd><img src="image/1.png" width=400px> </kbd> <br>
+  <kbd><img src="1.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/1-1.png" width=600px> </kbd> <br>
+  <kbd><img src="1-1.png" width=600px> </kbd> <br>
  Chart: Orders by Payment Method
 </p>
 
@@ -249,12 +249,12 @@ SQL Output: Orders by Payment Method<br>
 Out of the total orders, 88 were completed, 85 are still pending, and 77 were cancelled. While completed orders slightly lead, the high number of pending and cancelled orders indicates potential issues in order processing or customer experience.
 <p align="center">
 SQL Output: Orders by Status<br>
-  <kbd><img src="image/6.png" width=400px> </kbd> <br>
+  <kbd><img src="6.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/6-6.png" width=600px> </kbd> <br>
+  <kbd><img src="6-6.png" width=600px> </kbd> <br>
  Chart: Orders by Status
 </p>
 
@@ -264,12 +264,12 @@ SQL Output: Orders by Status<br>
 Miami leads with the highest sales (31,700), followed by Denver (29,785) and Houston (28,390). Meanwhile, San Francisco (16,195) and Los Angeles (17,820) record the lowest sales. This indicates significant differences in city-level performance, with some markets outperforming others.
 <p align="center">
 SQL Output: Sales by City<br>
-  <kbd><img src="image/2.png" width=400px> </kbd> <br>
+  <kbd><img src="2.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/2-2.png" width=600px> </kbd> <br>
+  <kbd><img src="2-2.png" width=600px> </kbd> <br>
  Chart: Sales by City
 </p>
 
@@ -279,12 +279,12 @@ SQL Output: Sales by City<br>
 Electronics (129,950) and Home Appliances (105,000) dominate sales, far outperforming other categories. In contrast, Footwear (4,320), Clothing (3,540), and Books (1,035) contribute minimally, showing a highly uneven distribution of revenue across categories.
 <p align="center">
 SQL Output: Sales by Product Category<br>
-  <kbd><img src="image/3.png" width=400px> </kbd> <br>
+  <kbd><img src="3.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/3-4.png" width=600px> </kbd> <br>
+  <kbd><img src="3-4.png" width=600px> </kbd> <br>
  Chart: Sales by Product Category
 </p>
 
@@ -294,12 +294,12 @@ SQL Output: Sales by Product Category<br>
 Revenue was strong in February (122,695) and March (117,730) but dropped sharply in April (3,420), indicating a sudden decline in sales activity.
 <p align="center">
 SQL Output: Revenue per Month<br>
-  <kbd><img src="image/4.png" width=400px> </kbd> <br>
+  <kbd><img src="4.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/4-4.png" width=600px> </kbd> <br>
+  <kbd><img src="4-4.png" width=600px> </kbd> <br>
  Chart: Revenue per Month
 </p>
 
@@ -309,12 +309,12 @@ SQL Output: Revenue per Month<br>
 Refrigerators (78,000), laptops (58,400), and smartphones (48,500) dominate sales, while items like books (1,035) and T-shirts (1,060) contribute minimally. The product mix shows a heavy reliance on high-value electronics and appliances.
 <p align="center">
 SQL Output: Top Selling Products<br>
-  <kbd><img src="image/5.png" width=400px> </kbd> <br>
+  <kbd><img src="5.png" width=400px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="image/5-5.png" width=600px> </kbd> <br>
+  <kbd><img src="5-5.png" width=600px> </kbd> <br>
  Chart: Top Selling Products
 </p>
 
@@ -372,7 +372,7 @@ JOIN Product p
   - Add filters for **Order Status**, **Payment Method**, and **Product Category**. 
 
 <p align="center">
-  <kbd><img src="image/PowerBI.jpg"> </kbd> <br>
+  <kbd><img src="PowerBI.jpg"> </kbd> <br>
  Power BI Sales Dashboard
 </p>
 
